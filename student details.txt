@@ -4,4 +4,6 @@ Student Details
 Name:ch.Devi Deekshitha
 Suc Code:2366250432
 Mail:devideekshithachitti@gmail.com
+
 Mobile Number:9963420379
+Class:3rd AI
